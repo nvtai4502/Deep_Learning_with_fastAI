@@ -15,6 +15,8 @@
 #### - Description:  Do a little exercise with MNIST and CIFAR data
 #### - Question: 
    I don't understand when working with MNIST, I get very good accuracy results, but why with CIFAR the accuracy stays constant about 0.5.
-   ![image](https://github.com/nvtai4502/Deep_Learning_with_fastAI/assets/137921596/08d2879b-f183-476b-8755-3175afa2d4ae) ![image](https://github.com/nvtai4502/Deep_Learning_with_fastAI/assets/137921596/0df9ea79-1a62-4e0b-ab6f-a9b78632e33f)
+   
+   ![image](https://github.com/nvtai4502/Deep_Learning_with_fastAI/assets/137921596/08d2879b-f183-476b-8755-3175afa2d4ae) 
+   ![image](https://github.com/nvtai4502/Deep_Learning_with_fastAI/assets/137921596/0df9ea79-1a62-4e0b-ab6f-a9b78632e33f)
 
    Why? , I even tried multiplying at both 3x for RGB colors and not 3xing, but the result still doesn't work well?
