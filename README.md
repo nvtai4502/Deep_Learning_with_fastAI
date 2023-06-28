@@ -11,7 +11,7 @@
 #### - Question: 
    ImageClassifierCleaner GUI is not displayed. I have imported and updated everything that GPT chat instructs but still not showing the GUI? 
    Why?
-### Lesson 3: https://www.kaggle.com/code/nvtai040502/notebooke5ff237d2e
+### Lesson 3: https://www.kaggle.com/nvtai040502/mnist-and-cifar
 #### - Description:  Do a little exercise with MNIST and CIFAR data
 #### - Question: 
    I don't understand when working with MNIST, I get very good accuracy results, but why with CIFAR the accuracy stays constant about 0.5.
