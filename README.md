@@ -20,3 +20,8 @@
    ![image](https://github.com/nvtai4502/Deep_Learning_with_fastAI/assets/137921596/0df9ea79-1a62-4e0b-ab6f-a9b78632e33f)
 
    Why? , I even tried multiplying at both 3x for RGB colors and not 3xing, but the result still doesn't work well?
+
+### Lesson 4: https://www.kaggle.com/code/nvtai040502/spaceship-titanic-competition
+#### - Description:  I entered a competition on Kaggle, did a project to help rescue crews and retrieve the lost passengers, I am challenged to predict which passengers were transported records by the anomaly using recovered from the spaceship's damaged computer system.
+#### - Question: 
+   I don't understand, why I give the learning rate as high as 100 and train the model a thousand times, my loss will only stop at 0.22, why can't it be smaller.
