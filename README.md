@@ -1,4 +1,4 @@
-# Deep Learning with Fast AI and Pytorch
+![icon@2x](https://github.com/nvtai4502/Deep_Learning_with_fastAI/assets/137921596/068638d9-dcee-4a3e-b486-500eb4bb5f35)# Deep Learning with Fast AI and Pytorch
 ### Lesson 1: https://www.kaggle.com/code/nvtai040502/barefoot-sandals
 #### - Description:  Distinguish the famous barefoot sandals today.
 #### - Question: 
@@ -24,4 +24,8 @@
 ### Lesson 4: https://www.kaggle.com/code/nvtai040502/spaceship-titanic-competition
 #### - Description:  I entered a competition on Kaggle, did a project to help rescue crews and retrieve the lost passengers, I am challenged to predict which passengers were transported records by the anomaly using recovered from the spaceship's damaged computer system.
 #### - Question: 
-   I don't understand, why I give the learning rate as high as 100 and train the model a thousand times, my loss will only stop at 0.22, why can't it be smaller.
+   
+### Lesson 5: https://www.kaggle.com/code/nvtai040502/spaceship-titanic-random-forest
+#### - Description:  I reworked the project in the competition in lesson 4 but instead of using deep learning, I practiced the random forest method from scratch.
+#### - Question: 
+   
